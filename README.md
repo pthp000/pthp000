@@ -12,4 +12,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Intro](https://github.com/pthp000/pthp000/blob/main/Project%20done%20and%20coded%20by%20%20Asma%20Khourdaji%20Amal%20Sabouni%20Ahmad%20Alali.png)
+![Intro](https://github.com/pthp000/pthp000/blob/main/Project%20done%20and%20coded%20by%20%20Asma%20Khourdaji%20Amal%20Sabouni%20Ahmad%20Alali%20(1).png)
