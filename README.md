@@ -3,9 +3,12 @@
 
 - 🔭 Our project was made through several technologies **VS code, Jupitier, Pandas and Numpy**
 
-- 📫 How to reach us **ahmad.alali@stu.fsm.edu.tr**
+-  How to reach us: 
+- 📫**ahmad.alali@stu.fsm.edu.tr**
+- 📫**asmaa.khourdaji@stu.fsm.edu.tr**
+- 📫**amal.sabouni@stu.fsm.edu.tr**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
